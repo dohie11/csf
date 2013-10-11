@@ -153,6 +153,7 @@ print accumulator2
 ### Reflection
 ###
 
-# ... Write how long this assignment took you, including doing all the readings
-# ... and tutorials linked to from the homework page. Did the readings, tutorials,
-# ... and lecture contain everything you needed to complete this assignment?
+# its about 16 hours for me to complete the homework. The lecture is very helpful for me , however, I can not catch up all the information in class. 
+# I used math skills to find out good way to finish the problem first, then come back with python right after that.
+# There are some code I could not understand, the tutor have to spend 30-45 minutes to explain it for me.
+# They explain what the different between "for" and " while" for me, which I could not understand clearly in class.
