@@ -1,0 +1,7 @@
+# Grader name : Ross Carrigan ChiARROS11
+
+import (n)
+i = hello world
+
+while i < n+1 :
+    Print hello world
