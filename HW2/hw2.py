@@ -1,5 +1,5 @@
-# Name: ...
-# Evergreen Login: ...
+# Name: Hien Do     
+# Evergreen Login: dohie11
 # Computer Science Foundations
 # Programming as a Way of Life
 # Homework 2
