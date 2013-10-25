@@ -1,0 +1,47 @@
+Name: Hien Do
+Evergreen Login: dohie11
+Computer Science Foundations
+Programming as a Way of Life
+Fall 2013
+Homework 3 
+
+For each problem that requires a written answer, write (or copy-and-paste)
+your answers in this file.  When you are done, you should have replaced all
+the ellipses (the three dots) with your answers.
+
+At the end, you will turn in this file along with your modified
+dna_analysis.py program.
+
+
+Problem 1:
+
+(No answers in this file.)
+
+Problem 2:
+
+GC-content: 0.3
+CG-content: 0.43029262963
+
+Problem 3:
+
+Line40, in <module> , name'linenum' is not defined. In addition, line 31 is not defined. Because of putting the # character
+in front of 'seq' and 'linenum' the computer can not understand where the 'linenum' from , and what is the value of 'linenum'.
+
+If comment out line 'gc_count = 0" the error will be on line 66 because name ' gc_count' is not defined also. It is similar
+with 'seq' and 'linenum' above. gc is count for total , we must give it variable 0 if we want total.
+
+Problem 4:
+
+GC-content: 0.3
+AT-content: 0.7
+
+
+Collaboration:
+
+Trong Nguyen ( classmates ) , he just show me how to check the result of problem 4 by hands ..and how to compare with 
+"python results "
+
+Reflection:
+
+This exercise is the most of interesting python HW so far. I learned a lot of things from this part such as : command line, 
+copy and paste from command promt,... I felt very excited about python now, and ready to learn for new things
