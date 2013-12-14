@@ -1,7 +1,7 @@
 Do the following to get credit:
 
-* Commit your generated romeo-and-juliet.pdf from hw8
-* Fix the indentation problem in electionHW7.py so that it runs correctly from tests.py, and commit it to your github repo.
+* [DONE] Commit your generated romeo-and-juliet.pdf from hw8
+* [DONE] Fix the indentation problem in electionHW7.py so that it runs correctly from tests.py, and commit it to your github repo.
 * Write and submit your self-eval and faculty evals for me, neal, and SHerri online at my.evergreen.edu
 
 Do this by 5pm tomorrow (Friday).
